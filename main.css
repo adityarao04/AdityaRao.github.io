@@ -559,6 +559,10 @@ button:focus {
     background-color: #c6c626;
 }
 
+.mb-green {
+    background-color: rgb(33, 196, 33);
+}
+
 
 /*Percentage Classes */
 
